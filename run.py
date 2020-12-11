@@ -5,7 +5,6 @@ from PIL import Image
 import numpy
 import cv2 as cv
 import tensorflow as tf
-import os
 import tensorflow.python.util.deprecation as deprecation
 
 
