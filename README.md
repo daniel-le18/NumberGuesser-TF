@@ -1,4 +1,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 # Number Guessing Game with Tensorflow
 
 Implement neural network using tensorflow with pygame to predict a drawing of number.
