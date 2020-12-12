@@ -33,7 +33,9 @@ import tensorflow.python.util.deprecation as deprecation
 ## Demo
 
 Left click to draw
+
 Right click to erase
+
 E to clear board
 
 ## Demo
