@@ -31,12 +31,10 @@ import tensorflow as tf
 import tensorflow.python.util.deprecation as deprecation
 ```
 ## Demo
-<img src="icon.jpg" width="324" height="324">
-
 <p align="center">
-  <img src="./demo/draw1.png" width="256" height="455">
-  <img src="./demo/draw0.png" width="256" height="455">
-  <img src="./demo/draw6.png" width="256" height="455">
+  <img src="./demo/draw1.png" width="256" height="256">
+  <img src="./demo/draw0.png" width="256" height="256">
+  <img src="./demo/draw6.png" width="256" height="256">
 </p>
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
