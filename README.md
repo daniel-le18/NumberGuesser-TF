@@ -44,19 +44,19 @@ E to clear board
 
 <p align="center">
   <img src="./demo/draw1.png" width="300" height="300">
-  <img src="./demo/result1.png" width="300" height="300">
+  <img src="./demo/result1.png" width="320" height="320">
 
   <img src="./demo/draw0.png" width="300" height="300">
-  <img src="./demo/result0.png" width="300" height="300">
+  <img src="./demo/result0.png" width="320" height="320">
 
 </p>
 <p align="center">
 
   <img src="./demo/draw6.png" width="300" height="300">
-  <img src="./demo/result6.png" width="300" height="300">
+  <img src="./demo/result6.png" width="320" height="320">
 
   <img src="./demo/draw8.png" width="300" height="300">
-  <img src="./demo/result8.png" width="300" height="300">
+  <img src="./demo/result8.png" width="320" height="320">
 </p>
 
 ## Contributing
