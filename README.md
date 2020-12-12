@@ -39,9 +39,9 @@ import tensorflow.python.util.deprecation as deprecation
 </p>
 
 <p align="center">
-  <img src="./demo/result1.png" width="256" height="256">
-  <img src="./demo/result0.png" width="256" height="256">
-  <img src="./demo/result6.png" width="256" height="256">
+  <img src="./demo/result1.png" width="300" height="300">
+  <img src="./demo/result0.png" width="300" height="300">
+  <img src="./demo/result6.png" width="300" height="300">
 </p>
 
 ## Contributing
