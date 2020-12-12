@@ -32,9 +32,10 @@ import tensorflow.python.util.deprecation as deprecation
 ```
 ## Demo
 <p align="center">
-  <img src="./demo/draw1.png" width="256" height="256">
-  <img src="./demo/draw0.png" width="256" height="256">
-  <img src="./demo/draw6.png" width="256" height="256">
+  <img src="./demo/draw1.png" alt="Draw 1" width="256" height="256">
+  <img src="./demo/draw0.png" alt="Draw 0" width="256" height="256">
+  <img src="./demo/draw6.png" alt="Draw 6" width="256" height="256">
+  <img src="./demo/draw8.png" alt="Draw 8" width="256" height="256">
 </p>
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
