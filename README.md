@@ -32,7 +32,7 @@ import tensorflow.python.util.deprecation as deprecation
 ```
 ## Demo
 <p align="center">
-  <img src="./demo/draw1.png" width="256" height="256 alt="Made with Angular" title="Angular"">
+  <img src="./demo/draw1.png" width="256" height="256" alt="Made with Angular" title="Angular">
   <img src="./demo/draw0.png" width="256" height="256">
   <img src="./demo/draw6.png" width="256" height="256">
 </p>
