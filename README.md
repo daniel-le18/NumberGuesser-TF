@@ -42,6 +42,8 @@ E to clear board
 
 ## Demo
 
+### Best results
+
 <p align="center">
   <img src="./demo/draw1.png" width="300" height="300">
   <img src="./demo/result1.png" width="320" height="320">
