@@ -30,7 +30,7 @@ import cv2 as cv
 import tensorflow as tf
 import tensorflow.python.util.deprecation as deprecation
 ```
-## Demo
+## Instructions
 
 Left click to draw
 
