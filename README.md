@@ -32,6 +32,12 @@ import tensorflow.python.util.deprecation as deprecation
 ```
 ## Demo
 
+Left click to draw
+Right click to erase
+E to clear board
+
+## Demo
+
 <p align="center">
   <img src="./demo/draw1.png" width="300" height="300">
   <img src="./demo/draw0.png" width="300" height="300">
